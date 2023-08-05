@@ -11,7 +11,6 @@ while n != 0:
 	sum1 = sum1+(r**b)
 	n = n//10
 if s == sum1:
-	print("Awesomeness. The given number", s, "is armstrong number")
 else:
 	print("The given number", s, "is not armstrong number")
 
