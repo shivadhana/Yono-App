@@ -11,7 +11,9 @@ while n != 0:
 	sum1 = sum1+(r**b)
 	n = n//10
 if s == sum1:
-	print("Awesome Sauce. The given number", s, "is armstrong number")
+<<<<<<< HEAD
+=======
+>>>>>>> 750f57c (new commit)
 else:
 	print("The given number", s, "is not armstrong number")
 
